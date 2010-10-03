@@ -1,0 +1,16 @@
+border_size=1
+usage=map
+
+Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Aa          , Aa          
+Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gg          , Gg          
+Gs^Fp       , Gs^Fp       , Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gg^Ve       , Gg          , Gg          
+Gs^Fp       , Gs^Fp       , Gs^Fp       , Gg          , Gg          , Gg          , Ce          , 1 Ke        , Ce          , Gs^Fp       , Gs^Fp       , Gg          , Gg          
+Gs^Fp       , Gs^Fp       , Gs^Fp       , Rd          , 6 Ke        , Ce          , Ce          , Ce          , Ce          , Ce          , 2 Ke        , Gg          , Re          
+Gs^Fp       , Gs^Fp       , Gs^Fp       , Rd          , Ce          , Ce          , Ce          , Ce          , Ce          , Ce          , Ce          , Re          , Ss          
+Gg          , Gg          , Rd          , Rd          , Ce          , Ce          , Ce          , Ce          , Ce          , Ce          , Ce          , Ss          , Ss          
+Gg          , Gg          , Gg          , Gg          , 5 Ke        , Ce          , Ce          , Ce          , Ce          , Ce          , 3 Ke        , Ss          , Ss          
+Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Ce          , Ce          , Ce          , Ce          , Ce          , Ss          , Ss          , Ss          
+Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gg^Ve       , Gs^Fp       , 4 Ke        , Gs^Fp       , Ss          , Ww          , Ss          , Ss          
+Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gg          , Gs^Fp       , Gs^Fp       , Ss          , Ww          , Ss          , Ss          
+Aa          , Gg          , Gg          , Gg          , Gg^Ve       , Gs^Fp       , Gg          , Gg          , Gs^Fp       , Ss          , Ss          , Ss          , Gs^Fp       

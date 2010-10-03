@@ -1,0 +1,56 @@
+Version 1.0.1
+	Fixed bug involving Caryn appearing on the recall list.
+
+Version 1.0
+	Added last scenario and epilogue.
+	Fixed Eldaric portrait.
+
+Version 0.9.1
+	Bugfix.
+
+Version 0.9.0
+	Upgrade to 1.8.
+	Revamped dialogue.
+
+Version 0.8.2
+	Added Legends of the Dwerrows and Tyrant scenarios.
+
+Version 0.8.1
+	Changed Karin to Caryn.
+	Fixed The Knalgans Scenario.
+
+Version 0.8.0
+	Bugfix.
+
+Version 0.7.9
+	20_Shadows and 21_The_Knalgans scenarios
+
+Version 0.7.8
+	Upgrade to 1.6.
+	Spelling and dialogue.
+
+Version 0.7.7
+	Fixed Catacombs message bug.
+
+Version 0.7.6
+	Changed Anduin to Alduin.
+
+Version 0.7.5
+	Fixed bug with mages advancing by using an object instead of MODIFY.
+	Fixed bug with the childrens escape in Old Enemies scenario.
+
+Version 0.7.4
+	Changed MEDIUM to NORMAL to allow GOLD macro to work.
+
+Version 0.7.3
+	Fixed NORMAL events not firing.
+
+Version 0.7.2
+	Fixed bug with MOVE/MODIFY units having "description" instead of "id".
+	
+Version 0.7.1
+	Bugfix
+	
+Version 0.7
+	Upgraded to Wesnoth 1.5.
+	Started using changelog

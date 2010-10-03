@@ -1,0 +1,25 @@
+border_size=1
+usage=map
+
+Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
+Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xos         , Xos         , Xos         , Xu          , Xu          , Xu          , Xu          , Xu          
+Xu          , Xu          , Xu          , Xu          , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xu          , Xu          , Xu          
+Xu          , Xu          , Xos         , Xos         , Xos         , Xos         , Rd          , Rd          , Rd          , Xos         , Xos         , Xos         , Xu          , Xu          
+Xu          , Xos         , Xos         , Xos         , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Xos         , Xos         , Xu          
+Xu          , Xos         , Xos         , Xos         , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Xos         , Xos         , Xu          
+Xu          , Xos         , Xos         , Xos         , Rd          , Rd          , Rd          , 1 Rd        , Rd          , Rd          , Rd          , Xos         , Xos         , Xu          
+Xu          , Xos         , Xos         , Xos         , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Rd          , Xos         , Xos         , Xu          
+Xu          , Xu          , Xu          , Xos         , Xos         , Rd          , Rd          , Rd          , Rd          , Rd          , Xos         , Xos         , Xu          , Xu          
+Xu          , Xu          , Xu          , Xu          , Xos         , Xos         , Xos         , Rd          , Xos         , Xos         , Xos         , Xu          , Xu          , Xu          
+Xu          , Xu          , Xu          , Xu          , Xos         , Xos         , Xos         , Rd          , Xos         , Xos         , Xos         , Xu          , Xu          , Xu          
+Xu          , Xu          , Xu          , Xu          , Xos         , Xos         , Xos         , Ur          , Xos         , Xos         , Xos         , Xu          , Xu          , Xu          
+Xu          , Xu          , Xu          , Xu          , Xos         , Xos         , Ur          , Ur          , Ur          , Xos         , Xos         , Xos         , Xos         , Xu          
+Xu          , Xu          , Xos         , Xos         , Xos         , Xos         , Ur          , Ur          , Ur          , Xos         , Xos         , Xos         , Xos         , Xu          
+Xu          , Xu          , Xos         , Xos         , Ur          , Ur          , Ur          , Ur          , Ur          , Ur          , Ur          , Xos         , Xos         , Xu          
+Xu          , Xu          , Xu          , Ur          , Uu          , Ur          , Uu          , Ur          , Uu          , Ur          , Ur          , Ur          , Xu          , Xu          
+Xu          , Xu          , Xu          , Qlf         , Qlf         , Ur          , Rp          , Rp          , Ur          , Uu          , Qlf         , Xu          , Xu          , Xu          
+Xu          , Xu          , Xu          , Qlf         , Ur          , Ur          , Uu          , Ur          , Ur          , Qlf         , Xu          , Xu          , Xu          , Xu          
+Xu          , Xu          , Xu          , Qlf         , Qlf         , Ur          , Ur          , Ur          , Ur          , Qlf         , Xu          , Xu          , Qlf         , Ur          
+Uu          , Xu          , Xu          , Xu          , Uu          , Uu          , Qlf         , Ur          , Qlf         , Ur          , Ur          , Uu^Vud      , Uu          , Xu          
+Ur          , Xu          , Xu          , Xu          , Uu          , Xu          , Xu          , Uu          , Xu          , Xu          , Xu          , Ur          , 2 Ur        , Ur          
+Xu          , Qlf         , Uu          , Uu          , Xu          , Xu          , Xu          , Uu          , Xu          , Xu          , Xu          , Xu          , Xu          , Uh          
